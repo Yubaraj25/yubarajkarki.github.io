@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header .img-fluid {
+    max-width: 150px;
+    height: auto;
+}
+
+main section {
+    padding: 1rem 2rem;
+    background: #fff;
+    margin: 1rem 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+main section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+main ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+main ul li {
+    margin: 0.5rem 0;
+}
